@@ -1,4 +1,3 @@
-test.py
 import socket
 
 with socket.socket() as s:
